@@ -15,8 +15,8 @@ public class Main {
 		System.out.println("digite um numero: ");
 		x = sc.nextInt();
 		
-//		int [] arrays = new int[6];
-//		arrays [0] = 10;
+		int [] arrays = new int[6];
+		arrays [0] = 10;
 //		arrays [1] = 20;
 //		arrays [2] = 30;
 //		arrays [3] = 40;
