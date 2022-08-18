@@ -17,9 +17,9 @@ public class Main {
 		
 		int [] arrays = new int[6];
 		arrays [0] = 10;
-//		arrays [1] = 20;
-//		arrays [2] = 30;
-//		arrays [3] = 40;
+		arrays [1] = 20;
+		arrays [2] = 30;
+		arrays [3] = 40;
 //		arrays [4] = 50;
 //		arrays [5] = 60;
 //		
